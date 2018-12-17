@@ -1,3 +1,3 @@
-https://code-detroit.github.io/Code_Detroit/contact.html
+https://code-detroit.github.io/Code_Detroit/
 
 # Code_Detroit
